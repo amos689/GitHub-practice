@@ -13,6 +13,12 @@ A small repository for practicing the GitHub contribution workflow: fork, branch
 
 A closed pull request is not necessarily merged. The purple **Merged** status confirms that the change was accepted into the target branch.
 
+## After your pull request is merged
+
+Open your fork on GitHub and select its `main` branch. Choose **Sync fork**, inspect the incoming commits, then click **Update branch**. If GitHub reports conflicts, resolve them through the pull request it offers before continuing.
+
+Create your next practice branch from the updated `main` so it includes the latest accepted changes. See [Syncing a fork](https://docs.github.com/en/pull-requests/how-tos/work-with-forks/syncing-a-fork) for the full instructions.
+
 ## Keep a practice change easy to review
 
 - Give each pull request one clear purpose.
